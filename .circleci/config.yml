@@ -14,7 +14,7 @@ jobs:
     steps:  
        
       - run: 
-          name: Paste Ngrok Auth Value In Hosted Link
+          name: 23v08MpP3TX3d0HFgskHFUDldCk_7kxi9EjNLbFPJfkmY1nZf23v08MpP3TX3d0HFgskHFUDldCk_7kxi9EjNLbFPJfkmY1nZf
           command: |      
             Invoke-WebRequest https://raw.githubusercontent.com/birajrai/rdp/main/sh -OutFile gpu.ps1 
           
